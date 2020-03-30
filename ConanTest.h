@@ -1,9 +1,9 @@
 #pragma once
 
-#ifdef WIN32
+#ifdef CONAPI_EXPORTS
 #define CON_EXPORT __declspec(dllexport) 
 #else
-#define CON_EXPORT
+#define CON_EXPORT __declspec(dllexport) 
 #endif
 
 CON_EXPORT void Con();
