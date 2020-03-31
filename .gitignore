@@ -38,9 +38,6 @@
 /.vs/ConanTest/v15/ipch/935e91b47d955b73.ipch
 /.vs/ConanTest/v15/ipch/AutoPCH/2a4273fb7ad5d1ab/CONANTEST.ipch
 /.vs/ConanTest/v15/ipch/f1aebd21ac8d5d09.ipch
-/ConanTest.vcxproj
-/ConanTest.vcxproj.filters
-/ConanTest.vcxproj.user
 /x64/Release/ConanTest.iobj
 /x64/Release/ConanTest.ipdb
 /x64/Release/ConanTest.log
